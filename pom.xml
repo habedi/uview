@@ -6,7 +6,7 @@
 
   <groupId>io.github.pixelclover.uview</groupId>
   <artifactId>uview</artifactId>
-  <version>0.1.0-b.2</version>
+  <version>0.1.0-b.3</version>
   <packaging>jar</packaging>
 
   <name>UView</name>
