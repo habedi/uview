@@ -353,7 +353,7 @@ public class MainWindow extends JFrame {
             + "<p><b>Version:</b> "
             + version
             + "</p>"
-            + "<p>A desktop tool for viewing and modifying Unity packages.</p>"
+            + "<p>A cross-platform tool for viewing and modifying Unity package files.</p>"
             + "<p><b>GitHub:</b> <a href='https://github.com/habedi/uview'>https://github.com/habedi/uview</a></p>"
             + "</body></html>";
 

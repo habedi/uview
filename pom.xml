@@ -10,7 +10,7 @@
   <packaging>jar</packaging>
 
   <name>UView</name>
-  <description>A desktop application for viewing, extracting, and modifying Unity package files.</description>
+  <description>A cross-platform tool for viewing and modifying Unity package files</description>
   <url>https://github.com/pixel-clover/uview</url>
 
   <properties>
