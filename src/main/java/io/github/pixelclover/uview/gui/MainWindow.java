@@ -354,7 +354,7 @@ public class MainWindow extends JFrame {
             + version
             + "</p>"
             + "<p>A cross-platform tool for viewing and modifying Unity package files.</p>"
-            + "<p><b>GitHub:</b> <a href='https://github.com/habedi/uview'>https://github.com/habedi/uview</a></p>"
+            + "<p><b>GitHub:</b> <a href='https://github.com/pixel-clover/uview'>https://github.com/pixel-clover/uview</a></p>"
             + "</body></html>";
 
     java.net.URL iconUrl = App.class.getResource("/logo.svg");
